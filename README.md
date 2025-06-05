@@ -62,7 +62,7 @@ Daha sonra kullanıcıdan komut alınır ve analiz edilerek ilgili işlem gerçe
 
 ## 📁 Dosya Yapısı
 
-- `main.py` — Uygulamanın tüm işlevlerini içerir.
+- `asistanım.py` — Uygulamanın tüm işlevlerini içerir.
 - `requirements.txt` — Gerekli Python modülleri listesi.
 - `LICENSE` — Kullanım koşulları.
 
