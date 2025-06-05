@@ -11,7 +11,7 @@ import pygame
 recognizer = sr.Recognizer()
 
 # API anahtarı aldıysanız burayı değiştirin.
-API_KEY = "API KODUNUZ"
+API_KEY = "BURAYA_API_ANAHTARINIZI_YAZIN"
 
 # pygame start
 pygame.mixer.init()
