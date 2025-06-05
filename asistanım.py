@@ -10,8 +10,8 @@ import pygame
 
 recognizer = sr.Recognizer()
 
-# Değiştirmeyin
-API_KEY = "c5ed679c8a62419187003657241611"
+# API anahtarı aldıysanız burayı değiştirin.
+API_KEY = "API KODUNUZ"
 
 # pygame start
 pygame.mixer.init()
